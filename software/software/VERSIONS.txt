@@ -1,0 +1,47 @@
+STM32 Start Lab — Offline Kit
+
+Дата формирования комплекта:
+11.10.2026
+
+Windows:
+
+STM32CubeMX:
+Version: 6.18.1
+File: SetupSTM32CubeMX-6.18.1-Win-x86_64.zip
+
+STM32CubeIDE:
+Version: 2.2.0
+File: stm32cubeide_2.2.0-Win-x86_64.exe.zip
+
+STM32CubeProgrammer:
+Version: уточнить после установки
+File: SetupSTM32CubeProgrammer_win64.zip
+
+ST-LINK Driver:
+Package: STSW-LINK009
+File: stsw-link009.zip
+
+MCU Packages:
+
+Blue Pill — STM32F103C8T6
+Package: STM32CubeF1
+Version: уточнить после проверки пакета
+File: stm32cubef1.zip
+
+Black Pill — STM32F411CEU6
+Package: STM32CubeF4
+Version: 1.28.0
+File: stm32cubef4-v1-28-0.zip
+
+Статус проверки:
+[ ] Установка STM32CubeMX
+[ ] Установка STM32CubeIDE
+[ ] Установка ST-LINK
+[ ] Установка STM32CubeProgrammer
+[ ] Установка STM32CubeF1 offline
+[ ] Установка STM32CubeF4 offline
+[ ] Создание проекта Blue Pill
+[ ] Прошивка Blue Pill
+[ ] Создание проекта Black Pill
+[ ] Прошивка Black Pill
+[ ] Проверка без подключения к интернету
