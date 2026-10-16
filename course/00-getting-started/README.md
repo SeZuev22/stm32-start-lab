@@ -336,7 +336,7 @@ SHA-256 позволяет проверить, что скачанный фай�
 
 Установочные файлы распространяются через раздел **Releases** репозитория.
 
-➡️ **[Открыть Releases](/SeZuev22/stm32-start-lab/releases)**
+➡️ **[Скачать STM32 Start Lab — Windows Beta](https://github.com/SeZuev22/stm32-start-lab/releases/tag/v0.1.0-beta)**
 
 Для первого запуска необходимо подготовить:
 
