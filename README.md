@@ -45,7 +45,7 @@
 
 Откройте пошаговую инструкцию:
 
-➡️ [Полная инструкция для Windows](docs/windows/README.md)
+➡️ [Полная инструкция для Windows](course/00-getting-started/README.md)
 
 Она проводит через:
 
@@ -93,7 +93,7 @@
 
 ## 1. Windows
 
-➡️ [Установка и настройка под Windows](docs/windows/README.md)
+➡️ [Установка и настройка под Windows](course/00-getting-started/README.md)
 
 Основной и полностью проверенный маршрут.
 
