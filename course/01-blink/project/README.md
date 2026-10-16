@@ -1107,7 +1107,7 @@ docs/windows/
 Информация по Blue Pill:
 
 ```text
-boards/blue-pill-stm32f103/
+resources/hardware/blue-pill-stm32f103/README.md
 ```
 
 Примеры проектов:

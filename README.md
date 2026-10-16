@@ -128,7 +128,7 @@
 
 ## 3. Blue Pill
 
-➡️ [Информация о Blue Pill](boards/blue-pill-stm32f103/README.md)
+➡️ [Информация о Blue Pill](resources/hardware/blue-pill-stm32f103/README.md)
 
 Здесь собрана информация о:
 
