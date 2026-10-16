@@ -1,47 +1,78 @@
-STM32 Start Lab — Offline Kit
+STM32 Start Lab — Windows Beta
+Release tag: v0.1
+Дата актуализации: 16.10.2026
 
-Дата формирования комплекта:
-11.10.2026
+============================================================
+ТЕКУЩИЙ УЧЕБНЫЙ ТРЕК
+============================================================
 
-Windows:
+Windows
+→ Blue Pill
+→ STM32F103C8T6
+→ ST-LINK V2
+→ STM32CubeMX
+→ STM32CubeIDE
+→ HAL
+→ Laboratory 01: GPIO Output / Blink
 
-STM32CubeMX:
+============================================================
+ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
+============================================================
+
+STM32CubeMX
 Version: 6.18.1
 File: SetupSTM32CubeMX-6.18.1-Win-x86_64.zip
+Status: VERIFIED
 
-STM32CubeIDE:
+STM32CubeIDE
 Version: 2.2.0
+Platform: Windows x86_64
 File: stm32cubeide_2.2.0-Win-x86_64.exe.zip
+Status: VERIFIED
 
-STM32CubeProgrammer:
-Version: уточнить после установки
-File: SetupSTM32CubeProgrammer_win64.zip
-
-ST-LINK Driver:
-Package: STSW-LINK009
-File: stsw-link009.zip
-
-MCU Packages:
-
-Blue Pill — STM32F103C8T6
-Package: STM32CubeF1
-Version: уточнить после проверки пакета
+STM32CubeF1
+Version: 1.8.0
 File: stm32cubef1.zip
+Target MCU: STM32F103C8T6
+Status: VERIFIED
 
-Black Pill — STM32F411CEU6
-Package: STM32CubeF4
-Version: 1.28.0
-File: stm32cubef4-v1-28-0.zip
+============================================================
+ОБОРУДОВАНИЕ
+============================================================
 
-Статус проверки:
-[ ] Установка STM32CubeMX
-[ ] Установка STM32CubeIDE
-[ ] Установка ST-LINK
-[ ] Установка STM32CubeProgrammer
-[ ] Установка STM32CubeF1 offline
-[ ] Установка STM32CubeF4 offline
-[ ] Создание проекта Blue Pill
-[ ] Прошивка Blue Pill
-[ ] Создание проекта Black Pill
-[ ] Прошивка Black Pill
-[ ] Проверка без подключения к интернету
+Board: Blue Pill
+MCU: STM32F103C8T6
+Programmer / Debugger: ST-LINK V2
+Interface: SWD
+Library: HAL
+
+============================================================
+СТАТУС ПРАКТИЧЕСКОЙ ПРОВЕРКИ
+============================================================
+
+[x] Установка STM32CubeMX 6.18.1
+[x] Запуск STM32CubeMX
+[x] Локальная установка STM32CubeF1 v1.8.0
+[x] Настройка STM32CubeMX для offline-работы
+[x] Установка STM32CubeIDE 2.2.0
+[x] Запуск STM32CubeIDE
+[x] Работа драйвера ST-LINK
+[x] Создание проекта STM32F103C8T6
+[x] SYS → Debug → Serial Wire
+[x] PC13 → GPIO_Output
+[x] Генерация проекта
+[x] Сборка: 0 errors, 0 warnings
+[x] Подключение Blue Pill через ST-LINK V2
+[x] Запись программы во Flash
+[x] Download verified successfully
+[x] Физическая проверка Blink на реальной Blue Pill
+[x] Работа с локальным STM32CubeF1 без загрузки новой версии пакета
+
+============================================================
+НЕ ВХОДИТ В ТЕКУЩИЙ RELEASE
+============================================================
+
+STM32CubeProgrammer — не требуется для ЛР №1.
+STSW-LINK009 — отдельный пакет не требуется в проверенной конфигурации.
+STM32CubeF4 / Black Pill — не входят в текущий учебный трек.
+Linux — не входит в текущий учебный трек.
