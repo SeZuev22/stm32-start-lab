@@ -1,6 +1,6 @@
-STM32 Start Lab — Windows Beta
-Release tag: v0.1
-Дата актуализации: 16.10.2026
+STM32 Start Lab — Practical Course
+Release tag: v0.2
+Дата актуализации: 17.10.2026
 
 ============================================================
 ТЕКУЩИЙ УЧЕБНЫЙ ТРЕК
@@ -13,7 +13,7 @@ Windows
 → STM32CubeMX
 → STM32CubeIDE
 → HAL
-→ Laboratory 01: GPIO Output / Blink
+→ Laboratory 01: GPIO Output / diagnostic light signaling
 
 ============================================================
 ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ

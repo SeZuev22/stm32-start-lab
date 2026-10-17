@@ -406,7 +406,7 @@ ST_LICENSES.zip
 
 Все необходимые для текущего учебного трека файлы собраны в одном GitHub Release:
 
-➡️ **[Скачать STM32 Start Lab — Windows Beta](https://github.com/SeZuev22/stm32-start-lab/releases/tag/v0.1)**
+➡️ **[Скачать STM32 Start Lab v0.2 — Windows / Blue Pill](https://github.com/SeZuev22/stm32-start-lab/releases/tag/v0.2)**
 
 Для первого запуска скачайте только три основных файла:
 

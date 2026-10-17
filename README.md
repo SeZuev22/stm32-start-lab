@@ -66,7 +66,7 @@ GPIO
 
 Текущий Release:
 
-**[STM32 Start Lab — Windows Beta v0.1](https://github.com/SeZuev22/stm32-start-lab/releases/tag/v0.1)**
+**[STM32 Start Lab v0.2 — практико-ориентированный курс (Windows / Blue Pill)](https://github.com/SeZuev22/stm32-start-lab/releases/tag/v0.2)**
 
 Для текущего трека используются:
 
